@@ -12,8 +12,6 @@ body {
     
 }
 .text {
-    background-position: 50% 50%;
-    margin: auto;
     color: darkcyan;
     padding: 20px;
     
@@ -22,4 +20,13 @@ body {
     width: 480px;
     box-shadow: 0 0 2px 2px rosybrown;
     margin: auto;  
+}
+.world {
+    font-weight: 700;
+}
+.text-a {
+    margin-top: 10px;  
+}
+.title {
+    margin-bottom: 10px;
 }
